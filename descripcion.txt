@@ -1,0 +1,3 @@
+This code creates a list in HTML or RTF format WITHOUT USING OCX OR API CALLS. You can make a font selection, set the font properties like bold, italic, underline, font and background  colors,example text, text size, cols number and more. This program will save hours for you from typing in front of your computer, because it will create the list, so you can have a printed preview of your favorites fonts.
+
+A MUST SEE CODE. DOWNLOAD IT NOW... And Vote for it if you like it!!!
